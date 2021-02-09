@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "UXB7279EDN.jp.co.whitehealthcare.phr.dev",
+                "paths": [ "*"]
+            }
+        ]
+    }
+}
