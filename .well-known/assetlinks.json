@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "jp.co.whitehealthcare.phr.dev",
+            "sha256_cert_fingerprints": [
+                "00:2F:6F:7F:21:84:D5:F0:D0:E3:45:0E:EA:14:B5:5E:09:AF:58:E2:22:6B:10:3E:15:FF:C1:60:C0:5F:8D:56"
+            ]
+        }
+    }
+]
